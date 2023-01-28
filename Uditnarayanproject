@@ -1,0 +1,48 @@
+</DOCTYPE html>
+
+<html>
+
+<head> <title>
+
+Tourist Places
+
+</title> <style>
+
+Section  {background-color: pink; width:50% ;height: 50%; float: right}
+
+aside  {width: 50%; float: left}
+
+ol{font-style:italic;font-size:15pt}
+
+ul{font-weight:bold;font-size:20pt}
+
+</style>
+
+</head> <body>
+
+<header style="background-color:skq-blue; height: loopt"> 
+
+<h1 align="center"> Tourist Places </h1>
+
+<header>
+
+<br> <aside>
+<ol>
+
+<li> Pune </li>
+
+<li> Banglore </li> <li> Hyderabad </li>
+<li> Delhi </li>
+</ol>
+</aside>
+<section>
+<h3>Tourist places in pune</h3>
+<ul>
+<li> Shanivarwada </li>
+<li> kelkar museum </li>
+<li> Sinhgad Fort </li>
+<li> Aga khan palace </li>
+</ul>
+</section>
+</body>
+</html>
